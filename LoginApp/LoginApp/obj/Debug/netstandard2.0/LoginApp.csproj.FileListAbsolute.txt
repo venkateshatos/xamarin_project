@@ -1,0 +1,9 @@
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.csproj.AssemblyReference.cache
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\Pages\RegisterPage.xaml.g.cs
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.AssemblyInfoInputs.cache
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.AssemblyInfo.cs
+C:\Users\a887944\source\repos\LoginApp\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.csproj.CoreCompileInputs.cache
